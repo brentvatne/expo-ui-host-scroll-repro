@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Host Scroll Repro",
+    "slug": "expo-ui-host-scroll-repro",
+    "scheme": "hostscrollrepro",
+    "ios": {
+      "bundleIdentifier": "dev.brentvatne.hostscrollrepro"
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
